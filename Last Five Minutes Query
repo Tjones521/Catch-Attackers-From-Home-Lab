@@ -1,0 +1,3 @@
+SecurityEvent
+| where TimeGenerated > ago(5m)
+| project TimeGenerated, Account, Computer, EventID, Activity, IpAddress
