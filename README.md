@@ -1,4 +1,4 @@
-<h1>Catch Attackers From Home Lab</h1>
+<h1>Implementing a SOC and Honeynet in Azure</h1>
 
 
 <h2>Description</h2>
