@@ -9,6 +9,8 @@ I set up a basic home SOC in Azure from scratch. Using a free Azure subscription
 <h2>Languages and Utilities Used</h2>
 
 - <b>Azure Virtual Machine</b> 
+- <b>Microsoft Sentinel(SIEM)</b>
+- <b>Log Analytics</b> 
 - <b>JSON</b> 
 
 
